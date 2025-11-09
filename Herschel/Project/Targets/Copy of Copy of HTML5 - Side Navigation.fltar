@@ -18,7 +18,8 @@
   MasterStylesheetOverride="false"
   TopicToolbarSkin="/Project/Skins/Toolbar.flskn"
   OutputFile="index"
-  OutputFolder="C:\Users\Stein\Documents\Test Online\output">
+  OutputFolder="C:\Users\Stein\TestOnline\Herschel\Output\HTML5"
+  GetLatestBeforeCompile="true">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"

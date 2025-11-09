@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultToc Version="1" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" DescendantCount="3">
-    <TocEntry Title="Article Heading" Link="/Content/Article_Template.htm" ComputedResetPageLayout="true" ComputedFirstTopic="true" DescendantCount="0" />
-    <TocEntry Title="Release Notes" Link="/Content/Release_Notes.htm" ComputedFirstTopic="false" DescendantCount="0" />
-    <TocEntry Title="System Requirements" Link="/Content/System_Requirements.htm" ComputedFirstTopic="false" DescendantCount="0" />
-</CatapultToc>
