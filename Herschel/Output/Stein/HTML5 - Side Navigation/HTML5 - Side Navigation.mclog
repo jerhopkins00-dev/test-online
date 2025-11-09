@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadCap Flare 2025 r2 Generated HTML5 - Side Navigation.fltar" Date="2025-11-09T09:15:45.7348858-05:00">
+    <Messages>Compiling target HTML5 - Side Navigation...
+Removing previously generated content...
+Build failed: Access to the path 'C:\Users\Stein\Documents\Test Online\Herschel\Herschel\Output\Stein\Temporary\HTML5 - Side Navigation\' is denied.
+Saving log to "C:\Users\Stein\Documents\Test Online\Herschel\Herschel\Output\Stein\HTML5 - Side Navigation\HTML5 - Side Navigation.mclog"
+</Messages>
+    <Warnings />
+    <Errors>
+        <LogEntry File="Project\Targets\HTML5 - Side Navigation.fltar" Message="Build failed: Access to the path 'C:\Users\Stein\Documents\Test Online\Herschel\Herschel\Output\Stein\Temporary\HTML5 - Side Navigation\' is denied.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Side Navigation" ErrorID="10086" />
+    </Errors>
+</MadCapLog>
